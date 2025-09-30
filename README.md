@@ -14,7 +14,7 @@ O desafio consiste em: "Desenvolver um mini‑assistente conversacional (RAG‑b
 - [Contato](#contato)
 
 ## Visão Geral
-O projeto consiste em uma criação de um asisstente conversacional que utiliza o modelo LangChain com uma interface gráfica simplificada para o ussuário final. Apesar de haver uma lista de requisitos obrigatórios, por nao concordar com algumas práticas nem todos os requisitos foram atendidos da maneira solicitada. Além disso, não houve diretrizes sobre engenharia de prompt, a meta do desafio e do bot não foi claramente definida e os critérios de avaliação não foram especificados. </br>
+O projeto consiste em uma criação de um asisstente conversacional que utiliza o modelo LangChain com uma interface gráfica simplificada para o ussuário final. Não houve diretrizes sobre engenharia de prompt, a meta do desafio e do bot não foi claramente definida e os critérios de avaliação não foram especificados. </br>
 
 Pontos a serem considerados: </br>
 Definição de Contexto RAG</br>
