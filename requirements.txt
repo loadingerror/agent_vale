@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+python-dotenv
+tiktoken
+langchain_deepseek
+sseclient-py
+streamlit
+ddgs
+sqlglot[rs]
+langchain-chroma
+langchain_experimental
