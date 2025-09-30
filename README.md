@@ -23,17 +23,12 @@ Definição de Contexto RAG</br>
 Estrutura de Pastas vs. Imports em Python</br>
 - A justificativa para a estrutura de diretórios não foi apresentada. Atualmente, ela pode conflitar com o mecanismo de import do Python (ex.: ModuleNotFoundError). Sugere-se documentar a convenção adotada ou reestruturar.
 
-Terminologia não padronizada</br>
-- Foram utilizados termos próprios que não aparecem nos documentos oficiais do framework escolhido. É importante alinhar nomenclatura com a terminologia oficial para evitar ambiguidades.
-
-Objetos indefinidos</br>
-- Alguns objetos foram mencionados/instanciados sem definição clara (interfaces, contratos ou diagramas). É preciso detalhar responsabilidades e formato esperado.
+Terminologia não padronizada/Exigencia de Objetos não explicada</br>
+- Foram utilizados termos próprios que não aparecem nos documentos oficiais do framework escolhido. É importante alinhar nomenclatura com a terminologia oficial para evitar ambiguidades. 
+Foram utilizados termos próprios que não aparecem nos documentos oficiais do framework escolhido. É importante alinhar nomenclatura com a terminologia oficial para evitar ambiguidades. 
 
 Regras de qualidade de código</br>
 - Não há definição de padrões como PEP8, por exemplo. Um guia de estilo e um pre-commit configurado ajudariam a garantir consistência.
-
-- Uso de terminologia interna não explicada</br>
-Conceitos como “fallback para tool” foram introduzidos sem explicação. Requer documentação de quando e como esses mecanismos devem ser aplicados.
 
 Limitações de embeddings</br>
 - A dependência de embeddings específicos pode limitar o uso de modelos alternativos ou aumentar custos. Esse ponto deveria estar registrado nos pré-requisitos e na análise de trade-offs.
